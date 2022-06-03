@@ -5,6 +5,8 @@
 
 using namespace std;
 
+// Going to change the client program here
+
 int num_of_dice = 4;
 const int STAR_POINTS = 5; //number of points represented by each star
 
