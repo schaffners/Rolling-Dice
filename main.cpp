@@ -10,7 +10,7 @@ using namespace std;
 int num_of_dice = 4;
 const int STAR_POINTS = 5; //number of points represented by each star
 
-void printBarGraph(int list[], int length);
+//void printBarGraph(int list[], int length);
 
 int main()    
 {   
@@ -59,7 +59,7 @@ int main()
     return 0;   
 }
 
-void printBarGraph(int list[], int length)
+/*void printBarGraph(int list[], int length)
 {
     int stars;
 
@@ -71,5 +71,5 @@ void printBarGraph(int list[], int length)
             cout << "*";
         cout << endl;
     }
-}
+}*/
  
